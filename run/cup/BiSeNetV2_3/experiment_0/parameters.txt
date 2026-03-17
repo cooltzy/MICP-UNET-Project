@@ -1,0 +1,8 @@
+datset:cup
+backbone:resnet
+lr:0.1
+lr_scheduler:poly
+loss_type:ohem_dice
+epoch:200
+base_size:128
+crop_size:128
