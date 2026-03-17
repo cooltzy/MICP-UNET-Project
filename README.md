@@ -1,4 +1,4 @@
-# MICP-UNET-Project: Microscopic Dark-field Image Segmentation
+# MICP-Deep-Unet-CrystalSeg: Microscopic Dark-field Image Segmentation
 
 ### 🔬 Project Overview (项目概览)
 This repository focus on image segmentation under **microscopic dark-field environments**. It is specifically developed for **MICP (Microbially Induced Calcite Precipitation)** research to automatically identify **crystals** and **PDMS structures** in microfluidic chips.
